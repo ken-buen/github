@@ -8,3 +8,7 @@
 - wiki
 - discussions
 - etc
+
+## license
+
+**MIT**
